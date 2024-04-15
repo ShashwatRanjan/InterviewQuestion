@@ -1,4 +1,10 @@
-What is actuater
-How exception handling done in Springboot
-why we use Springboot
-what are the advantage of springboot over spring
+What is actuator
+How is exception handling done in Springboot
+why do we use Springboot
+what are the advantages of Springboot over spring
+What is IoC Container
+What is Dependency Injection
+what is the difference between @Controller and @RestController
+What is the response entity
+How can you customize the embedded server in Spring Boot?
+why Uase Application.properties
